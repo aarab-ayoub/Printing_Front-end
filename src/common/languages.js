@@ -17,6 +17,10 @@ const languages = {
     label: "Italian",
     flag: italy,
   },
+  rs: {
+    label: "Russian",
+    flag: russia,
+  },
   en: {
     label: "English",
     flag: usFlag,

@@ -15,7 +15,6 @@ import {
 //SimpleBar
 import SimpleBar from "simplebar-react"
 
-
 import { Link } from "react-router-dom"
 
 //Import images
